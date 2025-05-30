@@ -5,7 +5,6 @@
 - 📫 Any one can reach me via LinkedIn & Instagram
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play games and sports acitivities.
-- 🌍 On a mission to create impactful web and mobile solutions.
 - 🌍 On a mission to create impactful AI-ML based Applications.
 - 🛠️ Tinkering with tech to make life better.
 - 🖤 Open-source enthusiast and lifelong learner.
