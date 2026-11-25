@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=270&color=0:0D1117,50:1F2A5C,100:6D28D9&text=Harikrishna%20Vora&fontColor=FFFFFF&fontSize=56&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20AI%20Agents%20%26%20Automation&descSize=18&descAlignY=62&animation=fadeIn" alt="Harikrishna Vora" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:1F2A5C,100:6D28D9&section=header" alt="" width="100%" />
+
+<h1 align="center">Harikrishna Vora</h1>
+<p align="center"><b>AI / ML Engineer · AI Agents & Automation</b></p>
 
 <a href="https://github.com/Harivora">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=720&height=48&lines=AI+%2F+ML+Engineer;AI+Agents+%26+Automation;Helping+organizations+become+AI-native;Lead+%40+Atmiya+Developer+Students+Club;Currently+learning+JavaScript;Open-source+enthusiast+%26+lifelong+learner" alt="Typing animation" />
