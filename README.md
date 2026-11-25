@@ -111,16 +111,43 @@ Real products like **[Profify](https://profify.in)**, an AI CFO platform for Ind
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Harivora&show_icons=true&include_all_commits=true&count_private=true&title_color=00E5FF&text_color=C9D1D9&icon_color=A78BFA&bg_color=0D1117&border_color=30363D&rank_icon=github" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harivora&layout=donut&langs_count=6&title_color=00E5FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="Top languages" />
-<br/>
-<img src="https://streak-stats.demolab.com?user=Harivora&background=0D1117&ring=A78BFA&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=30363D" alt="GitHub streak" />
+
+<table>
+<tr>
+<td valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Harivora&show_icons=true&count_private=true&rank_icon=github&title_color=00E5FF&text_color=C9D1D9&icon_color=A78BFA&bg_color=0D1117&border_color=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Harivora&show_icons=true&count_private=true&rank_icon=github&title_color=0969DA&text_color=24292F&icon_color=8250DF&bg_color=FFFFFF&border_color=D0D7DE" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Harivora&show_icons=true&count_private=true&rank_icon=github&title_color=0969DA&text_color=24292F&icon_color=8250DF&bg_color=FFFFFF&border_color=D0D7DE" />
+</picture>
+</td>
+<td valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Harivora&layout=compact&langs_count=6&card_width=380&title_color=00E5FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Harivora&layout=compact&langs_count=6&card_width=380&title_color=0969DA&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harivora&layout=compact&langs_count=6&card_width=380&title_color=0969DA&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE" />
+</picture>
+</td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Harivora&background=0D1117&ring=A78BFA&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=30363D&stroke=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Harivora&background=FFFFFF&ring=8250DF&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A&border=D0D7DE&stroke=D0D7DE" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Harivora&background=FFFFFF&ring=8250DF&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A&border=D0D7DE&stroke=D0D7DE" />
+</picture>
+
 <br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harivora&bg_color=0D1117&color=00E5FF&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Contribution activity" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Harivora&bg_color=0D1117&color=00E5FF&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA&title_color=00E5FF&hide_border=true&radius=10&custom_title=Contribution%20Activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Harivora&bg_color=FFFFFF&color=24292F&line=8250DF&point=0969DA&area=true&area_color=8250DF&title_color=0969DA&hide_border=true&radius=10&custom_title=Contribution%20Activity" />
+  <img alt="Contribution activity" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harivora&bg_color=FFFFFF&color=24292F&line=8250DF&point=0969DA&area=true&area_color=8250DF&title_color=0969DA&hide_border=true&radius=10&custom_title=Contribution%20Activity" />
+</picture>
+
 </div>
 
 <br/>
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harivora/Harivora/output/github-snake-dark.svg" />
