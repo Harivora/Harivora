@@ -6,7 +6,7 @@
 <p align="center"><b>AI / ML Engineer · AI Agents & Automation</b></p>
 
 <a href="https://github.com/Harivora">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=720&height=48&lines=AI+%2F+ML+Engineer;AI+Agents+%26+Automation;Helping+organizations+become+AI-native;Lead+%40+Atmiya+Developer+Students+Club;Currently+learning+JavaScript;Open-source+enthusiast+%26+lifelong+learner" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=10B981&center=true&vCenter=true&repeat=true&width=720&height=48&lines=AI+%2F+ML+Engineer;AI+Agents+%26+Automation;Helping+organizations+become+AI-native;Lead+%40+Atmiya+Developer+Students+Club;Currently+learning+JavaScript;Open-source+enthusiast+%26+lifelong+learner" alt="Typing animation" />
 </a>
 
 <br/><br/>
