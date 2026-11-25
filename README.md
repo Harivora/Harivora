@@ -6,7 +6,7 @@
 <p align="center"><b>AI / ML Engineer · AI Agents & Automation</b></p>
 
 <a href="https://github.com/Harivora">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=720&height=48&lines=AI+%2F+ML+Engineer;AI+Agents+%26+Automation;Helping+organizations+become+AI-native;Lead+%40+Atmiya+Developer+Students+Club;Currently+learning+JavaScript;Open-source+enthusiast+%26+lifelong+learner" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=720&height=48&lines=AI+%2F+ML+Engineer;AI+Agents+%26+Automation;Helping+organizations+become+AI-native;Lead+%40+Atmiya+Developer+Students+Club;Currently+learning+JavaScript;Open-source+enthusiast+%26+lifelong+learner" alt="Typing animation" />
 </a>
 
 <br/><br/>
@@ -38,7 +38,7 @@
 }
 ```
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:A78BFA" alt="" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C4B5FD,100:A78BFA" alt="" />
 
 <h2 align="center">⚡ What I Build</h2>
 
@@ -46,7 +46,7 @@
 - 🧠 **Applied ML:** document intelligence, speech-to-text, image understanding and OCR, packaged into usable assistants
 - 🚀 **AI Products:** [Profify](https://profify.in), an AI CFO platform for Indian D2C brands, and SwasthyaAI, an Ayurveda AI doctor
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:A78BFA" alt="" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C4B5FD,100:A78BFA" alt="" />
 
 <h2 align="center">📌 Featured Projects</h2>
 
@@ -57,7 +57,7 @@
 
 More in my [repositories](https://github.com/Harivora?tab=repositories).
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:A78BFA" alt="" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C4B5FD,100:A78BFA" alt="" />
 
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -66,7 +66,7 @@ More in my [repositories](https://github.com/Harivora?tab=repositories).
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,pytorch,tensorflow,fastapi,docker,git,github,vercel,linux&perline=13" alt="Tech stack" />
 </div>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:A78BFA" alt="" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C4B5FD,100:A78BFA" alt="" />
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -76,33 +76,33 @@ More in my [repositories](https://github.com/Harivora?tab=repositories).
 <tr>
 <td valign="middle" align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Harivora&show_icons=true&count_private=true&rank_icon=github&title_color=00E5FF&text_color=C9D1D9&icon_color=A78BFA&bg_color=0D1117&border_color=30363D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Harivora&show_icons=true&count_private=true&rank_icon=github&title_color=0969DA&text_color=24292F&icon_color=8250DF&bg_color=FFFFFF&border_color=D0D7DE" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Harivora&show_icons=true&count_private=true&rank_icon=github&title_color=0969DA&text_color=24292F&icon_color=8250DF&bg_color=FFFFFF&border_color=D0D7DE" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Harivora&show_icons=true&count_private=true&rank_icon=github&title_color=C4B5FD&text_color=C9D1D9&icon_color=A78BFA&bg_color=0D1117&border_color=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Harivora&show_icons=true&count_private=true&rank_icon=github&title_color=7C3AED&text_color=24292F&icon_color=8250DF&bg_color=FFFFFF&border_color=D0D7DE" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Harivora&show_icons=true&count_private=true&rank_icon=github&title_color=7C3AED&text_color=24292F&icon_color=8250DF&bg_color=FFFFFF&border_color=D0D7DE" />
 </picture>
 </td>
 <td valign="middle" align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Harivora&layout=compact&langs_count=6&card_width=380&title_color=00E5FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Harivora&layout=compact&langs_count=6&card_width=380&title_color=0969DA&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harivora&layout=compact&langs_count=6&card_width=380&title_color=0969DA&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Harivora&layout=compact&langs_count=6&card_width=380&title_color=C4B5FD&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Harivora&layout=compact&langs_count=6&card_width=380&title_color=7C3AED&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harivora&layout=compact&langs_count=6&card_width=380&title_color=7C3AED&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE" />
 </picture>
 </td>
 </tr>
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Harivora&background=0D1117&ring=A78BFA&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=30363D&stroke=30363D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Harivora&background=FFFFFF&ring=8250DF&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A&border=D0D7DE&stroke=D0D7DE" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Harivora&background=FFFFFF&ring=8250DF&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A&border=D0D7DE&stroke=D0D7DE" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Harivora&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=30363D&stroke=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Harivora&background=FFFFFF&ring=8250DF&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A&border=D0D7DE&stroke=D0D7DE" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Harivora&background=FFFFFF&ring=8250DF&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A&border=D0D7DE&stroke=D0D7DE" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Harivora&bg_color=0D1117&color=00E5FF&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA&title_color=00E5FF&hide_border=true&radius=10&custom_title=Contribution%20Activity" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Harivora&bg_color=FFFFFF&color=24292F&line=8250DF&point=0969DA&area=true&area_color=8250DF&title_color=0969DA&hide_border=true&radius=10&custom_title=Contribution%20Activity" />
-  <img alt="Contribution activity" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harivora&bg_color=FFFFFF&color=24292F&line=8250DF&point=0969DA&area=true&area_color=8250DF&title_color=0969DA&hide_border=true&radius=10&custom_title=Contribution%20Activity" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Harivora&bg_color=0D1117&color=C4B5FD&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA&title_color=C4B5FD&hide_border=true&radius=10&custom_title=Contribution%20Activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Harivora&bg_color=FFFFFF&color=24292F&line=8250DF&point=7C3AED&area=true&area_color=8250DF&title_color=7C3AED&hide_border=true&radius=10&custom_title=Contribution%20Activity" />
+  <img alt="Contribution activity" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harivora&bg_color=FFFFFF&color=24292F&line=8250DF&point=7C3AED&area=true&area_color=8250DF&title_color=7C3AED&hide_border=true&radius=10&custom_title=Contribution%20Activity" />
 </picture>
 
 </div>
@@ -116,7 +116,7 @@ More in my [repositories](https://github.com/Harivora?tab=repositories).
 </picture>
 </div>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:A78BFA" alt="" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C4B5FD,100:A78BFA" alt="" />
 
 <h2 align="center">🏅 Community & Achievements</h2>
 
@@ -128,7 +128,7 @@ More in my [repositories](https://github.com/Harivora?tab=repositories).
 
 </div>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:A78BFA" alt="" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C4B5FD,100:A78BFA" alt="" />
 
 <h2 align="center">🤝 Let's Build Something</h2>
 
