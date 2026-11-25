@@ -42,63 +42,23 @@
 
 <h2 align="center">⚡ What I Build</h2>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🤖 AI Agents & Automation
-Agentic workflows that take repetitive work off teams and help organizations become AI-native.
-
-</td>
-<td width="33%" valign="top">
-
-### 🧠 Applied ML
-Document intelligence, speech-to-text, image understanding and OCR, packaged into usable assistants.
-
-</td>
-<td width="33%" valign="top">
-
-### 🚀 AI Products
-Real products like **[Profify](https://profify.in)**, an AI CFO platform for Indian D2C brands, and **SwasthyaAI**, an Ayurveda AI doctor.
-
-</td>
-</tr>
-</table>
+- 🤖 **AI Agents & Automation:** agentic workflows that take repetitive work off teams and help organizations become AI-native
+- 🧠 **Applied ML:** document intelligence, speech-to-text, image understanding and OCR, packaged into usable assistants
+- 🚀 **AI Products:** [Profify](https://profify.in), an AI CFO platform for Indian D2C brands, and SwasthyaAI, an Ayurveda AI doctor
 
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:A78BFA" alt="" />
 
 <h2 align="center">📌 Featured Projects</h2>
 
-<div align="center">
-<table>
-<tr>
-<td>
-<a href="https://github.com/Harivora/my-ai-assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harivora&repo=my-ai-assistant&title_color=00E5FF&text_color=C9D1D9&icon_color=A78BFA&bg_color=0D1117&border_color=30363D" alt="my-ai-assistant" />
-</a>
-</td>
-<td>
-<a href="https://github.com/Harivora/SwasthyaAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harivora&repo=SwasthyaAI&title_color=00E5FF&text_color=C9D1D9&icon_color=A78BFA&bg_color=0D1117&border_color=30363D" alt="SwasthyaAI" />
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/Harivora/ADSC-Website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harivora&repo=ADSC-Website&title_color=00E5FF&text_color=C9D1D9&icon_color=A78BFA&bg_color=0D1117&border_color=30363D" alt="ADSC-Website" />
-</a>
-</td>
-<td>
-<a href="https://github.com/Harivora/AI-Project-Showcase">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harivora&repo=AI-Project-Showcase&title_color=00E5FF&text_color=C9D1D9&icon_color=A78BFA&bg_color=0D1117&border_color=30363D" alt="AI-Project-Showcase" />
-</a>
-</td>
-</tr>
-</table>
-</div>
+- **[my-ai-assistant](https://github.com/Harivora/my-ai-assistant)** &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br/>A personal ChatGPT-style assistant that summarizes PDFs, transcribes audio and video, describes images and extracts text from them.
+- **[SwasthyaAI](https://github.com/Harivora/SwasthyaAI)** &nbsp;![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)<br/>An Ayurveda AI doctor.
+- **[ADSC-Website](https://github.com/Harivora/ADSC-Website)** &nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br/>The official website of the Atmiya Developer Students Club.
+- **[AI-Project-Showcase](https://github.com/Harivora/AI-Project-Showcase)**<br/>A showcase of all my AI projects.
+
+More in my [repositories](https://github.com/Harivora?tab=repositories).
 
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:A78BFA" alt="" />
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
