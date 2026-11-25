@@ -165,4 +165,4 @@ I'm looking to collaborate on **AI-ML** projects. Reach out on LinkedIn or Insta
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1F2A5C,100:6D28D9&text=Harikrishna%20Vora&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20AI%20Agents%20%26%20Automation&descSize=18&descAlignY=60&animation=fadeIn" alt="Harikrishna Vora" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:6D28D9,50:1F2A5C,100:0D1117&section=footer" alt="" width="100%" />
